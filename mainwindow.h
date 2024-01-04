@@ -43,6 +43,5 @@ private:
     void guardar();
     void cargar();
     bool colorTarea(const tarea *t);
-
 };
 #endif
